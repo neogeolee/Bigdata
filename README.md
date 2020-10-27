@@ -61,4 +61,4 @@ imdb_lstm_test LSTM imdb 텍스트 분석 실습하기
 # Bigdata 개인 프로젝트 실습
 ```
 # Practice / instagram
-인스타그램 해시태그 
+인스타그램 해시태그 크롤링
